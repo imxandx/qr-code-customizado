@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  /* background-color: #1976D2; */
+  /* background-color: #f1f5fb; */
+  /* background-color: #8bbae5; */
+  /* background-color: #4486c2; */
+  background: #2d2e32;
+  font-family: 'Domine', serif;
+}
+
+code {
+  font-family: 'Domine', serif;
+}
+
+.card { 
+  /* background: rgb(2,0,36);
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 100%, rgba(0,212,255,1) 100%);   */
+  /* background-color: white;
+  color:black */
+  background-color: #1975d2;
+}
+
+.app { 
+  font-family: 'Domine', serif;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
